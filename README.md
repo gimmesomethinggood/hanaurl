@@ -12,8 +12,8 @@ When setting up HANA Studio follow the procedure on the above website, or:
 To install SAP HANA Tools, proceed as follows:
 
 1. Get an installation of Eclipse 2024-06 (e.g., Eclipse IDE for Java Developers).
-  In Eclipse, choose in the menu bar Help > Install New Software...
-  For Eclipse 2024-06 (4.32), add the URL https://tools.hana.ondemand.com/2024-06
+ * In Eclipse, choose in the menu bar Help > Install New Software...
+ * For Eclipse 2024-06 (4.32), add the URL https://tools.hana.ondemand.com/2024-06
 1. Press Enter to display the available features.
 1. Select the desired features and choose Next.
 1. On the next wizard page, you get an overview of the features to be installed. Choose Next.
